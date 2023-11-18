@@ -9,6 +9,9 @@
 #' @examples
 #' champagne_glass_for(seq(0, 20, by = 1))
 champagne_glass_for <- function(x) {
+  if (!is.numeric(x)) {
+    stop("Input must be numeric", call. = FALSE)
+  }
   result <- numeric(length(x))
   for (i in seq_along(x)) {
     result[i] <- champagne_glass(x[i])

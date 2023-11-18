@@ -9,5 +9,8 @@
 #' @examples
 #' champagne_glass_sapply(seq(0, 20, by = 1))
 champagne_glass_sapply <- function(x) {
+  if (!is.numeric(x)) {
+    stop("Input must be numeric", call. = FALSE)
+  }
   sapply(x, champagne_glass)
 }
