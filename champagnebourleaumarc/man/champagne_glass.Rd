@@ -18,5 +18,4 @@ It returns the radius at a given height `x`.
 }
 \examples{
 champagne_glass(5)
-champagne_glass(c(3, 7, 14))
 }

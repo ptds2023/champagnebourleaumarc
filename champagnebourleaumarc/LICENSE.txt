@@ -1,2 +1,2 @@
-YEAR: 2023
-COPYRIGHT HOLDER: champagnebourleaumarc authors
+YEAR: <2023>
+COPYRIGHT HOLDER: <Marc Bourleau >

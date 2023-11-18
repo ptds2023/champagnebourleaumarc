@@ -8,7 +8,7 @@
 #' @export
 #' @examples
 #' champagne_glass(5)
-#' champagne_glass(c(3, 7, 14))
+
 champagne_glass <- function(x) {
   if (!is.numeric(x)) {
     stop("Input must be numeric", call. = FALSE)
