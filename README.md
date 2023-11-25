@@ -12,3 +12,8 @@ You can install the released version of `champagnebourleaumarc` from [CRAN](http
 
 ```r
 install.packages("champagnebourleaumarc")
+```
+
+## Website 
+
+You can also acess some additional resources on this website: https://ptds2023.github.io/champagnebourleaumarc/
