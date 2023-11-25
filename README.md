@@ -17,3 +17,6 @@ install.packages("champagnebourleaumarc")
 ## Website 
 
 You can also acess some additional resources on this website: https://ptds2023.github.io/champagnebourleaumarc/
+
+
+![Champagne Glass](inst/extdata/champagne.jpeg)
