@@ -1,8 +1,7 @@
 # champagnebourleaumarc
 
-![Development Status](https://img.shields.io/badge/status-finished-green)
 <!-- badges: start -->
-[![R-CMD-check](https://github.com/ptds2023/champagnebourleau/workflows/R-CMD-check/badge.svg)](https://github.com/ptds2023/champagnebourleau/actions)
+[![R-CMD-check](https://github.com/ptds2023/champagnebourleaumarc/workflows/R-CMD-check/badge.svg)](https://github.com/ptds2023/champagnebourleaumarc/actions)
 <!-- badges: end -->
 
 ## Overview
