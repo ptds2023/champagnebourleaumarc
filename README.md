@@ -1,6 +1,6 @@
 # champagnebourleaumarc
 
-[![R-CMD-check](https://github.com/ptds2023/champagnebourleau/actions/workflows/R-CMD-check.yaml/badge.svg?branch=main)](https://github.com/ptds2023/champagnebourleau/actions/workflows/R-CMD-check.yaml)
+[![R-CMD-check](https://github.com/ptds2023/champagnebourleau/actions/workflows/R-CMD-check.yml/badge.svg?branch=main)](https://github.com/ptds2023/champagnebourleau/actions/workflows/R-CMD-check.yml)
 
 
 ## Overview
