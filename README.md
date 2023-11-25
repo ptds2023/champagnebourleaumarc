@@ -1,8 +1,4 @@
-pkgtest
-The goal of this repo is to experiment on R packages, for example how to write:
+![Development Status](https://img.shields.io/badge/status-in%20development-yellow)
 
-DESCRIPTION file,
-simple functions with documentations,
-examples,
-tests,
-...
+pkgtest
+https://ptds2023.github.io/champagnebourleaumarc/
