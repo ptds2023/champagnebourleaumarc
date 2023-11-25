@@ -1,4 +1,2 @@
-![Development Status](https://img.shields.io/badge/status-in%20development-yellow)
-
-pkgtest
-https://ptds2023.github.io/champagnebourleaumarc/
+![Development Status](https://img.shields.io/badge/status-finished-green)
+Package website:  https://ptds2023.github.io/champagnebourleaumarc/
