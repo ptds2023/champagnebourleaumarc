@@ -1,23 +1,26 @@
-name: champagnebourleau
+title: champagnebourleaumarc
+description: >
+  This package computes the volume of a glass of champagne using the disk integration method, treating the glass as a solid of revolution.
 
-on:
-  push:
-    branches: [ main ]
-  pull_request:
-    branches: [ main ]
+navbar:
+  title: Champagne Glass Volume Calculator
+  type: basic
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "GitHub"
+      href: https://github.com/ptds2023/champagnebourleaumarc
+    - text: "Documentation"
+      href: reference/index.html
+    - text: "Vignettes"
+      href: articles/index.html
 
-jobs:
-  build-site:
-    runs-on: ubuntu-latest
-    steps:
-    - uses: actions/checkout@v2
-    - uses: r-lib/actions/setup-r@v1
-    - name: Install pkgdown
-      run: Rscript -e 'install.packages("pkgdown")'
-    - name: Build Site
-      run: Rscript -e 'pkgdown::build_site()'
-    - name: Deploy to GitHub Pages
-      uses: peaceiris/actions-gh-pages@v3
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: ./docs
+authors:
+  Marc Bourleau:
+    href: https://github.com/ptds2023
+    role: author
+    email: marc.bourleau@unil.ch
+
+template:
+  params:
+    bootswatch: litera
