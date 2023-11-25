@@ -1,8 +1,7 @@
 # champagnebourleaumarc
 
-<!-- badges: start -->
-[![R-CMD-check](https://github.com/ptds2023/champagnebourleaumarc/workflows/R-CMD-check/badge.svg)](https://github.com/ptds2023/champagnebourleaumarc/actions)
-<!-- badges: end -->
+[![R-CMD-check](https://github.com/ptds2023/champagnebourleau/actions/workflows/R-CMD-check.yaml/badge.svg?branch=main)](https://github.com/ptds2023/champagnebourleau/actions/workflows/R-CMD-check.yaml)
+
 
 ## Overview
 `champagnebourleaumarc` is an R package designed for calculating the volume of a champagne glass using the disk integration method. It treats the glass as a solid of revolution, offering a mathematical approach to volume computation.
