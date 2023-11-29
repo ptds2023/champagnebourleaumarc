@@ -23,5 +23,6 @@ devtools::install_github("bourleaumarc/champagnebourleaumarc")
 
 You can also acess some additional resources on this website: https://ptds2023.github.io/champagnebourleaumarc/
 
-
+## Get help
+If you are stuck, remember: it's not a bug, it's an undocumented feature of your brain! 
 ![Champagne Glass](inst/extdata/champagne.jpeg)
