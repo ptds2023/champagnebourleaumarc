@@ -11,7 +11,7 @@
 You can install the released version of `champagnebourleaumarc` from [CRAN](https://CRAN.R-project.org) with:
 
 ```r
-install.packages("champagnebourleaumarc")
+devtools::install_github("bourleaumarc/champagnebourleaumarc")
 ```
 
 ## Website 
